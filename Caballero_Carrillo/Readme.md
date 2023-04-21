@@ -1,13 +1,13 @@
 # Permutaciones y Combinaciones
 ### Descripción
 Estos programas rersuelven problemas de probrabilidad y estadistica previamente planteados por nuestro profesor.
-### Intrucción
+### Instrucción
 Los programa Actividad_1 y Actividad_1.r permiten resolver la actividad 1.1 planteada por el profesor. El programa Actividad_1 esta desarrollado en Java y el programa Actividad_1.r esta desarrollado en R.
 
 Los programa Actividad_2 y Actividad_2.r permiten resolver la actividad 1.2 planteada por el profesor, en el cual usuario podra calcular las combinaciones y permutaciones de n elementos en grupos de de tamaño k . El programa Actividad_2 esta desarrollado en Java y el programa Actividad_2.r esta desarrollado en R.
 
 Cabe mencionar que la permutación maxima que puede realizar Java sin dar un error es de 20 datos, mientras que en R se permiten permutaciones con mayores números de datos.
-### Intalación
+### Instalación
 - Para utilizar los prgramas  Actividad_1.java y Actividad_2.java en NetBeans, sigua los siguientes pasos:
 1. Abre tu NetBeans, en el menú principal, haz clic en la pestaña de menú **File**, y selecciona **Open File**.
 2. Aparece una ventana, en la cual debes ubicar la carpeta de la activadad que desea ejecutar, ingresa a la carpeta, selecciona el proyecto que aparece con el ícono de una tasa y da clic en **Open Project**.
